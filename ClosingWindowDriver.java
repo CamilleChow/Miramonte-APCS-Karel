@@ -1,6 +1,6 @@
 /**
-   @Author:
-      Date:
+   @Author: Camille Chow
+      Date: Halloween!
    Teacher: Boyko
   */
 import kareltherobot.*;
